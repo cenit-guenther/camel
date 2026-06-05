@@ -118482,7 +118482,7 @@ Roster, Chat and other functionality.</description>
       <group>org.apache.camel</group>
       <name>camel-jbang-parent</name>
       <version>4.21.0-SNAPSHOT</version>
-      <description>Camel JBang Modules (parent)</description>
+      <description>Camel CLI Modules (parent)</description>
       <licenses>
         <license>
           <id>Apache-2.0</id>
@@ -118513,7 +118513,7 @@ Roster, Chat and other functionality.</description>
       <group>org.apache.camel</group>
       <name>camel-jbang-console</name>
       <version>4.21.0-SNAPSHOT</version>
-      <description>Camel JBang Console</description>
+      <description>Camel CLI Console</description>
       <licenses>
         <license>
           <id>Apache-2.0</id>
@@ -118544,7 +118544,7 @@ Roster, Chat and other functionality.</description>
       <group>org.apache.camel</group>
       <name>camel-jbang-core</name>
       <version>4.21.0-SNAPSHOT</version>
-      <description>Camel JBang Core</description>
+      <description>Camel CLI Core</description>
       <licenses>
         <license>
           <id>Apache-2.0</id>
@@ -119296,7 +119296,7 @@ Roster, Chat and other functionality.</description>
       <group>org.apache.camel</group>
       <name>camel-jbang-main</name>
       <version>4.21.0-SNAPSHOT</version>
-      <description>Camel JBang</description>
+      <description>Camel CLI</description>
       <licenses>
         <license>
           <id>Apache-2.0</id>
@@ -119327,7 +119327,7 @@ Roster, Chat and other functionality.</description>
       <group>org.apache.camel</group>
       <name>camel-jbang-mcp</name>
       <version>4.21.0-SNAPSHOT</version>
-      <description>Camel JBang MCP (Model Context Protocol) Server</description>
+      <description>Camel CLI MCP (Model Context Protocol) Server</description>
       <licenses>
         <license>
           <id>Apache-2.0</id>
@@ -122557,7 +122557,7 @@ introspection of method/constructor parameter names, without having to add expli
       <group>org.apache.camel</group>
       <name>camel-jbang-plugin-generate</name>
       <version>4.21.0-SNAPSHOT</version>
-      <description>Camel JBang Generate Plugin</description>
+      <description>Camel CLI Generate Plugin</description>
       <licenses>
         <license>
           <id>Apache-2.0</id>
@@ -123055,7 +123055,7 @@ introspection of method/constructor parameter names, without having to add expli
       <group>org.apache.camel</group>
       <name>camel-jbang-plugin-edit</name>
       <version>4.21.0-SNAPSHOT</version>
-      <description>Camel JBang Edit Plugin</description>
+      <description>Camel CLI Edit Plugin</description>
       <licenses>
         <license>
           <id>Apache-2.0</id>
@@ -124396,7 +124396,7 @@ introspection of method/constructor parameter names, without having to add expli
       <group>org.apache.camel</group>
       <name>camel-jbang-plugin-kubernetes</name>
       <version>4.21.0-SNAPSHOT</version>
-      <description>Camel JBang Kubernetes Plugin</description>
+      <description>Camel CLI Kubernetes Plugin</description>
       <licenses>
         <license>
           <id>Apache-2.0</id>
@@ -124459,7 +124459,7 @@ introspection of method/constructor parameter names, without having to add expli
       <group>org.apache.camel</group>
       <name>camel-jbang-plugin-route-parser</name>
       <version>4.21.0-SNAPSHOT</version>
-      <description>Camel JBang Route Parser</description>
+      <description>Camel CLI Route Parser</description>
       <licenses>
         <license>
           <id>Apache-2.0</id>
@@ -124490,7 +124490,7 @@ introspection of method/constructor parameter names, without having to add expli
       <group>org.apache.camel</group>
       <name>camel-jbang-plugin-test</name>
       <version>4.21.0-SNAPSHOT</version>
-      <description>Camel JBang Testing Plugin</description>
+      <description>Camel CLI Testing Plugin</description>
       <licenses>
         <license>
           <id>Apache-2.0</id>
@@ -124626,7 +124626,7 @@ introspection of method/constructor parameter names, without having to add expli
       <group>org.apache.camel</group>
       <name>camel-jbang-plugin-tui</name>
       <version>4.21.0-SNAPSHOT</version>
-      <description>Camel JBang TUI Plugin - Terminal UI dashboards for monitoring Camel integrations</description>
+      <description>Camel CLI TUI Plugin - Terminal UI dashboards for monitoring Camel integrations</description>
       <licenses>
         <license>
           <id>Apache-2.0</id>
@@ -125009,7 +125009,7 @@ introspection of method/constructor parameter names, without having to add expli
       <group>org.apache.camel</group>
       <name>camel-jbang-plugin-validate</name>
       <version>4.21.0-SNAPSHOT</version>
-      <description>Camel JBang Route Validator</description>
+      <description>Camel CLI Route Validator</description>
       <licenses>
         <license>
           <id>Apache-2.0</id>
@@ -125040,7 +125040,7 @@ introspection of method/constructor parameter names, without having to add expli
       <group>org.apache.camel</group>
       <name>camel-jbang-it</name>
       <version>4.21.0-SNAPSHOT</version>
-      <description>Camel JBang Modules (parent)</description>
+      <description>Camel CLI Modules (parent)</description>
       <licenses>
         <license>
           <id>Apache-2.0</id>

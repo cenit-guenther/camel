@@ -207041,7 +207041,7 @@
       "group" : "org.apache.camel",
       "name" : "camel-jbang-parent",
       "version" : "4.21.0-SNAPSHOT",
-      "description" : "Camel JBang Modules (parent)",
+      "description" : "Camel CLI Modules (parent)",
       "licenses" : [
         {
           "license" : {
@@ -207081,7 +207081,7 @@
       "group" : "org.apache.camel",
       "name" : "camel-jbang-console",
       "version" : "4.21.0-SNAPSHOT",
-      "description" : "Camel JBang Console",
+      "description" : "Camel CLI Console",
       "licenses" : [
         {
           "license" : {
@@ -207121,7 +207121,7 @@
       "group" : "org.apache.camel",
       "name" : "camel-jbang-core",
       "version" : "4.21.0-SNAPSHOT",
-      "description" : "Camel JBang Core",
+      "description" : "Camel CLI Core",
       "licenses" : [
         {
           "license" : {
@@ -208495,7 +208495,7 @@
       "group" : "org.apache.camel",
       "name" : "camel-jbang-main",
       "version" : "4.21.0-SNAPSHOT",
-      "description" : "Camel JBang",
+      "description" : "Camel CLI",
       "licenses" : [
         {
           "license" : {
@@ -208535,7 +208535,7 @@
       "group" : "org.apache.camel",
       "name" : "camel-jbang-mcp",
       "version" : "4.21.0-SNAPSHOT",
-      "description" : "Camel JBang MCP (Model Context Protocol) Server",
+      "description" : "Camel CLI MCP (Model Context Protocol) Server",
       "licenses" : [
         {
           "license" : {
@@ -214448,7 +214448,7 @@
       "group" : "org.apache.camel",
       "name" : "camel-jbang-plugin-generate",
       "version" : "4.21.0-SNAPSHOT",
-      "description" : "Camel JBang Generate Plugin",
+      "description" : "Camel CLI Generate Plugin",
       "licenses" : [
         {
           "license" : {
@@ -215360,7 +215360,7 @@
       "group" : "org.apache.camel",
       "name" : "camel-jbang-plugin-edit",
       "version" : "4.21.0-SNAPSHOT",
-      "description" : "Camel JBang Edit Plugin",
+      "description" : "Camel CLI Edit Plugin",
       "licenses" : [
         {
           "license" : {
@@ -217898,7 +217898,7 @@
       "group" : "org.apache.camel",
       "name" : "camel-jbang-plugin-kubernetes",
       "version" : "4.21.0-SNAPSHOT",
-      "description" : "Camel JBang Kubernetes Plugin",
+      "description" : "Camel CLI Kubernetes Plugin",
       "licenses" : [
         {
           "license" : {
@@ -218000,7 +218000,7 @@
       "group" : "org.apache.camel",
       "name" : "camel-jbang-plugin-route-parser",
       "version" : "4.21.0-SNAPSHOT",
-      "description" : "Camel JBang Route Parser",
+      "description" : "Camel CLI Route Parser",
       "licenses" : [
         {
           "license" : {
@@ -218040,7 +218040,7 @@
       "group" : "org.apache.camel",
       "name" : "camel-jbang-plugin-test",
       "version" : "4.21.0-SNAPSHOT",
-      "description" : "Camel JBang Testing Plugin",
+      "description" : "Camel CLI Testing Plugin",
       "licenses" : [
         {
           "license" : {
@@ -218278,7 +218278,7 @@
       "group" : "org.apache.camel",
       "name" : "camel-jbang-plugin-tui",
       "version" : "4.21.0-SNAPSHOT",
-      "description" : "Camel JBang TUI Plugin - Terminal UI dashboards for monitoring Camel integrations",
+      "description" : "Camel CLI TUI Plugin - Terminal UI dashboards for monitoring Camel integrations",
       "licenses" : [
         {
           "license" : {
@@ -219000,7 +219000,7 @@
       "group" : "org.apache.camel",
       "name" : "camel-jbang-plugin-validate",
       "version" : "4.21.0-SNAPSHOT",
-      "description" : "Camel JBang Route Validator",
+      "description" : "Camel CLI Route Validator",
       "licenses" : [
         {
           "license" : {
@@ -219040,7 +219040,7 @@
       "group" : "org.apache.camel",
       "name" : "camel-jbang-it",
       "version" : "4.21.0-SNAPSHOT",
-      "description" : "Camel JBang Modules (parent)",
+      "description" : "Camel CLI Modules (parent)",
       "licenses" : [
         {
           "license" : {
